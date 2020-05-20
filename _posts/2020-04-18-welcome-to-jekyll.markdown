@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "so hard"
+title:  "jekyll 열공중"
 date:   2020-04-18 20:54:27 +0900
 categories: jekyll update
 ---
-I change my repository name and 
-my site has shit
+열공중입니다. 

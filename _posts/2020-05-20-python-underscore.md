@@ -1,6 +1,6 @@
 ---
 layout : post
-title : AA 익스플로러 행
+title : 파이썬 포스트 언더스코어
 date : 2020-05-20 19:42:00 +0900
 update : 2020-05-22
 categories: python

@@ -30,9 +30,15 @@ q {
 
 code,
 kbd,
-samp,
+samp{
+  font-family: $monospace-font-family;
+}
 pre {
   font-family: $monospace-font-family;
+  background-color: #E6E6FA;
+  padding:10px;
+  overflow: auto;
+  white-space: pre-wrap;
 }
 
 kbd {

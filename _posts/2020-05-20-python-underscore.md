@@ -1,5 +1,5 @@
 ---
-layout : posts
+layout : post
 title : 파이썬 언더스코어
 date : 2020-05-20 19:42:00 +0900
 update : 2020-05-22

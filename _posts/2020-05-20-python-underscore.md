@@ -1,5 +1,5 @@
 ---
-layout : post
+layout : posts
 title : 파이썬 포스트 언더스코어
 date : 2020-05-20 19:42:00 +0900
 categories: python

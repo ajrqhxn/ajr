@@ -12,12 +12,13 @@ categories: python
 <br><br>
 
 1. 값을 무시하고 싶은 경우 
+
+*인덱스 쓸모 없을때*
+*값을 무시할때*
 '''python 
-*#인덱스 쓸모 없을때*
 for _ in range(3) :
     print("언더스코어_")
 
-#값을 무시할때
 def return_two_var (a):
     return a, a*2
 
@@ -35,8 +36,8 @@ print(1000)
 '''
 <br><br>
 3. private 으로 선언
-'''python
 #*외부에서 보듈을 불러올때 언더스코어로 사용된 변수, 함수, 클래스는 직접 import 하지 않으면사용할수 없다.*
+'''python
 def _hello() : 
     print('hello world')
 
@@ -48,14 +49,14 @@ _private_var = "p"
 <br><br>
 
 **5. 인터프리터에서 사용할때**
-마지막 값을 일시적으로 가지고 있는다.
-'''python 
-'>>> a = 10
-'>>> b = 20
-'>>> a + b
-'30
-'>>> _
-'30
+마지막 값을 일시적으로 가지고 있는다.<br>
+'''
+'>>> a = 10 <br>
+'>>> b = 20<br>
+'>>> a + b<br>
+'30<br>
+'>>> _<br>
+'30<br>
 '''
 <br><br>
 

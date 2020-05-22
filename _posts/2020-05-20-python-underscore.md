@@ -2,6 +2,7 @@
 layout : posts
 title : 파이썬 언더스코어
 date : 2020-05-20 19:42:00 +0900
+update : 2020-05-22
 categories: python
 ---
 
@@ -22,7 +23,7 @@ for _ in range(3) :
 def return_two_var (a):
     return a, a*2
 
-_, mul = return_two_var(5)
+_, mul = return_two_var(5) #리턴값 하나만 받고 싶을때 
 
 ```
 <br><br>
@@ -61,12 +62,12 @@ _private_var = "p"
 
 ```
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;>>> a = 10 <br>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;>>> b = 20<br>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;>>> a + b<br>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;30<br>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;>>> _<br>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;30<br>
+ >>> a = 10 
+ >>> b = 20
+ >>> a + b
+ 30
+ >>> _
+ 30
 
  ```
 <br><br>

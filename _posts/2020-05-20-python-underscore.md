@@ -1,6 +1,6 @@
 ---
 layout : posts
-title : 파이썬 포스트 언더스코어
+title : 파이썬 언더스코어
 date : 2020-05-20 19:42:00 +0900
 categories: python
 ---
@@ -10,7 +10,7 @@ categories: python
 
 <br><br>
 
-1. 값을 무시하고 싶은 경우 
+**1. 값을 무시하고 싶은 경우** 
 
 *인덱스 쓸모 없을때*<br>
 *값을 무시할때*<br>
@@ -27,7 +27,8 @@ _, mul = return_two_var(5)
 '''
 <br><br>
 
-2. 숫자 자리수 구분할때<br>
+**2. 숫자 자리수 구분할때**<br>
+
 '''python 
 
 print(1_000)
@@ -38,8 +39,10 @@ print(1000)
 
 '''
 <br><br>
-3. private 으로 선언
-#*외부에서 보듈을 불러올때 언더스코어로 사용된 변수, 함수, 클래스는 직접 import 하지 않으면사용할수 없다.* <br>
+
+**3. private 으로 선언**
+
+*외부에서 보듈을 불러올때 언더스코어로 사용된 변수, 함수, 클래스는 직접 import 하지 않으면사용할수 없다.* <br>
 
 '''python 
 
@@ -51,19 +54,19 @@ _private_var = "p"
 '''
 <br><br>
 
-4. 중복된 이름을 피하고 싶을때<br>
+**4. 중복된 이름을 피하고 싶을때**<br>
 
 **5. 인터프리터에서 사용할때**<br>
-마지막 값을 일시적으로 가지고 있는다.<br><br>
+*마지막 값을 일시적으로 가지고 있는다.*<br><br>
 
 '''
 
- '&nbsp;'>>> a = 10 <br>
- '&nbsp;'>>> b = 20<br>
- '&nbsp;'>>> a + b<br>
- '&nbsp;'30<br>
- '&nbsp;'>>> _<br>
- '&nbsp;'30<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;>>> a = 10 <br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;>>> b = 20<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;>>> a + b<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;30<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;>>> _<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;30<br>
 
  '''
 <br><br>

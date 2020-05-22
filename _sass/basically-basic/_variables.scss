@@ -6,7 +6,7 @@
 $small: 768px !default;
 $medium: 1024px !default;
 $large: 1280px !default;
-$xlarge: 100% !default;
+$xlarge: 2200px !default;
 // $small: 320px !default;
 // $medium: 768px !default;
 // $large: 1024px !default;
@@ -83,7 +83,7 @@ $base0f: #c79595 !default;
 $main-max-width: $xlarge !default;
 
 /* Width of the sidebar */
-$sidebar-width: $small !default;
+$sidebar-width: $xlarge !default;
 
 /* Background color of the sidebar */
 $sidebar-background-color: #fff !default;

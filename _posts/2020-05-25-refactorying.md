@@ -6,7 +6,7 @@ categories: python
 ---
 <br>
 Ajax 웹 기술 <br>
-- 공부해보면 좋을겉 같음<br>
+- 공부해보면  좋을거 같음<br>
 ---
 <br>
 <a href = "https://woowabros.github.io/experience/2017/10/30/baemin-mobile-git-branch-strategy.html">우아한 형제들 깃 플로우</a> <br>

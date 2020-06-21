@@ -5,16 +5,15 @@ date : 2020-06-21 19:30:00 +0900
 categories: post
 ---
 
-
 <body onmouseover="myOver()" onload="setInterval(function(){myTimer()},1000)">
     <div>
-    <pre style="font-weight:bolder" id="randomClass">
-    <a id="randomClass2" href="https://wati2.github.io/2020/06/16/2ndProject01.html" style="font-weight:bolder">와티 준비 참조</a>
+        <a id="randomClass2" href="https://wati2.github.io/2020/06/16/2ndProject01.html" style="font-weight:bolder">와티 준비 참조</a>
         <hr>
-        오늘 할것  🚩 (시작하기전)
-        MongoDB + Express + React + NodeJS 이상...
+        <pre style="font-weight:bolder; background-color:#aaaaaa;" id="randomClass">
+            오늘 할것  🚩 (시작하기전)
+            MongoDB + Express + React + NodeJS 이상...
+        </pre>
         <hr>
-    </pre>
     </div>
 </body>
 

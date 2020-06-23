@@ -13,7 +13,7 @@ categories: post
 </head>
 
 ***React 자습서***
-- <a href=https://ko.reactjs.org/tutorial/tutorial.html>ko.reactjs.org/tutorial</a>
+- <a href="https://ko.reactjs.org/tutorial/tutorial.html">ko.reactjs.org/tutorial</a>
 
 - reactjs 스터디 시작함.
 <hr>

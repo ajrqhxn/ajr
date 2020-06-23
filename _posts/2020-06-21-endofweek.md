@@ -11,7 +11,7 @@ categories: post
     a:hover { color: blue; text-decoration: underline;}
     </style>
 </head>
-<body onmouseover="myOver()" onload="setInterval(function(){myTimer()},1000)">
+<body onmouseover="myOver()" onload="setInterval(function(){myTimer()},100)">
     <div>
         <a id="randomClass2" href="https://wati2.github.io/2020/06/16/2ndProject01.html" style="font-weight:bolder">와티 준비 참조</a>
         <hr>

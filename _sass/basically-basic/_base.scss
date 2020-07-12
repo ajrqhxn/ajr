@@ -110,7 +110,7 @@ figcaption {
 a {
   color: $accent-color;
   &:link { color: gray; text-decoration: none;}
-  v:visited { color: black; text-decoration: none;}
+  &:visited { color: black; text-decoration: none;}
   &:hover { color: blue; text-decoration: underline; color: shade($accent-color, 25%);}
 }
 

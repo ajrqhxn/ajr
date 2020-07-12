@@ -111,7 +111,7 @@ a {
   color: $accent-color;
   &:link { color: gray; text-decoration: none;}
   &:visited { color: black; text-decoration: none;}
-  &:hover { color: blue; text-decoration: underline; color: shade($accent-color, 25%);}
+  &:hover { color: skyblue; text-decoration: none; color: shade($accent-color, 25%);}
 }
 
 // *:focus {

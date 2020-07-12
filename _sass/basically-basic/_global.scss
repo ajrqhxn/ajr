@@ -101,12 +101,13 @@
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
     justify-content: space-between;
-    color: inherit;
+    color: darkblue;
     text-decoration: none;
-    border-bottom: 1px solid $border-color;
+    border-bottom: none;
 
     &:hover {
-      color: $accent-color;
+      color: blue($color: #000000);
+      text-decoration: none;
     }
   }
 

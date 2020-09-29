@@ -1,7 +1,7 @@
 ---
 layout : post
 title : second
-date : 2020-06-21 19:30:00 +0900
+date : 2020-06-21 19:00:00 +0900
 categories: post
 ---
 <head>
